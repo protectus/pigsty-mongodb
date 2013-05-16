@@ -1,0 +1,16 @@
+{
+  "name": "pigsty-mongodb",
+  "version": "0.1.0",
+  "description": "A MongoDB output plugin for the pigsty unified2 spooler.",
+  "main": "./lib/pigsty-mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/threatstack/pigsty-mongodb",
+  "author": "Threat Stack, Inc",
+  "license": "GPLv3",
+  "dependencies": {
+    "debug": "~0.7.2",
+    "mongoose": "~3.6.11"
+  }
+}
