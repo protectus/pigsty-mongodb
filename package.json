@@ -11,6 +11,7 @@
   "license": "GPLv3",
   "dependencies": {
     "debug": "~0.7.2",
-    "mongoose": "~3.6.11"
+    "mongoose": "~3.6.11",
+    "pigsty-plugin": "~0.1.0"
   }
 }
